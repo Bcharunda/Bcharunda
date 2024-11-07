@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @charunda
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning new things
-- 💞️ I’m looking to collaborate on teams
-- 📫 How to reach me via email or LinkedIn 
+👋 Hi, I'm @charunda!
+👀 Passionate about coding and always eager to learn new things.
+🌱 Currently focused on expanding Front-end web development and UI/UX design knowledge.
+💼 Open to collaboration opportunities—especially in projects that enhance my front-end development and design skills.
+📫 Reach out via Email or LinkedIn.
 
 <!---
 Bcharunda/Bcharunda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
